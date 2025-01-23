@@ -8,4 +8,10 @@
 
 >In the state of Georgia, license plates consist of four digits followed by a space followed by three capital letters. Tht efirst digit cannot be a 0. How many license plates are possible?
 
-**Given:** s = 
+**Given:** $$s = x_1, x_2, x_3, x_4, x_5, x_6, x_7$$
+
+<p style="text-align: center;">Where</p>
+
+- $$x_1 = Digit (1-9)$$     
+- $$x_2, x_3, x_4 = Digit (0-9)$$     
+- $$x_5, x_6, x_7 = Capitol Letter (A-Z)$$     
