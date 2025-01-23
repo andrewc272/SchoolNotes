@@ -33,4 +33,5 @@
 $$Count = 9 \times 10 \times 10 \times 10 \times 26 \times 26 \times 26$$
 
 $$= 9 \times 10^3 \times 26^3$$
+
 $$= 158,184,000$$ license plates are possible
