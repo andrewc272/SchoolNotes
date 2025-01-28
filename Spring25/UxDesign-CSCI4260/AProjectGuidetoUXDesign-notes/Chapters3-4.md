@@ -62,23 +62,93 @@
 
 ## Chapter 4 Project Opjectives and Approach
 
+- Why is the project importand to the company?
+- How will stakeholders determine if the project was a success?
+- What approach or *methodology* will the project follow?
+- What are the major dates or *milestones* for key points, such as gettign approval from business stakeholders?
+
+Project Objective:
+: a statement of a measurable goal for the project
+
 ### Solidify Project Objectives
+
+A clear objective helps you to 
+- ask the right questions
+- find good ways to reasearch for the project
+- gather ideas and consolidate them
+- prioritize the project ideas based on company value
+- define specific features 
+- create effective design concepts
+- manage changes in dirrection after you start the project
+- focus efforts during deployment activities
+- Determine whether youve met the needs of the client company after the end of the project
+
+A solid objective is:
+- Easy to understand
+- distinct
+- Measurable
 
 ### Understand the Project Approach
 
+Most project methodologies involve these steps:
+- Plan
+- Discover
+- Define
+- Design
+- Develop
+- Deploy
+- iterate
+
 #### Waterfall Methodology
+
+- the waterfall method clearly defines the project then designs develops and deploys it
+    - prone to be bad if the project needs to change for any reason
 
 #### Agile Methodologies
 
+- agile is similar to waterfall but it splits it up into smaller iterations making it more adaptable to changes during the project
+- Scrum
+    - Involves short sprints where different teams work on different projects and there are daily checkins to prevent blockers
+- Kanban
+    - Visual signal for the workload and progress
+- SAFe
+    - Is a combination of scrum and kanban that is best used by large companies
+
 #### Other approaches a Designer should know
 
+- Double Diamond
+    - split up to understand the problem independantly then come together to define
+    - split up to ideate prototype then come together again to test and create the solution
+- Lean UX
+    - This involves cutting as much out to get the concept out there to simply test ideas and not intended to create a product
+- Dual-track product development
+    - this is where there is two things always being done during development learning and building
+- Design sprints
+    - Tbis is a method on solving sprints in a quick and simple manner
+
+- create a minimally viable product to start
+
 ### How does the Approach Affect Me?
+
+- What quesitons you should be asking and when
+- Expectations on how project team members will collaborate and how close that collaboration will be
+- the level of detail needed in your documentation and the level of formality
+- Important milestones that involve approval from stake holders and deployment to different groups
 
 ## Essential Questions:
 
 1. What is the role of DesignOps on a design team?
+
+- Design Operations role is to make the collaboration accross projects and teams smooth and seemless
+
 2. Why is designOps important?
+
+- it helps with bigger groups of people to have better communication and product design
+
 3. How are research operations critical to good design?
+
+- This helps the team under
+
 4. What are the four questions you should have answered by the end of a kickoff meeting?
 5. What is...
     A. the waterfall method?
@@ -92,4 +162,4 @@
 
 1. These chapters are really focused on organization and planning, why are these critical to doing design in industry?
 2. Which of the project planning and management mthods apppealed to you the most and why?
-3. Between design ops, content ops, and research ops, which appeled to you most and why?
+3.  Between design ops, content ops, and research ops, which appeled to you most and why?
