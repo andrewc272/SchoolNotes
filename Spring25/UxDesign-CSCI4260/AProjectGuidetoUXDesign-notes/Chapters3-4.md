@@ -147,19 +147,50 @@ Most project methodologies involve these steps:
 
 3. How are research operations critical to good design?
 
-- This helps the team under
+- This helps the team find the best tools for the job as well as help them conduct and collect research. They can see how successfull a particular design is compared to others.
 
 4. What are the four questions you should have answered by the end of a kickoff meeting?
+
+- Why is the project important to the company?
+- How will stakeholders determine if the project was a success?
+- What approach or *methodology* will the project follow?
+- What are the major dates or *milestones* for key points, such as getting approval from  business stakeholders?
+
 5. What is...
     A. the waterfall method?
+
+    - this method is where you research everything then design everything, then develope everything, then deploy everything.
+
     B. the agile method?
+
+    - agile is similar to waterfall but everything is broken up into iterations making it easier to switch the direction of the project if need be.
+
     C. the double diamond?
+
+    - The double diamond is where everyone goes out and does their own research then they come together to compile the research and find a target. Then they spread to find a solution and comback together to test and make sure the solution works altogether.
+
     D. lean UX?
+
+- This is where a simple product is made in a not final form so that the tool itself can be tested for necesity and useability.
+
     E. dual-track product development?
+
+- this is where teams simutaniously learn about and build the final product.
+
     F. a design sprint?
+
+- this is a sprint designed to have a prototype made and tested in just one week.
 
 ## Reflection Questions:
 
 1. These chapters are really focused on organization and planning, why are these critical to doing design in industry?
-2. Which of the project planning and management mthods apppealed to you the most and why?
+
+In the world there are deadlines so having a plan ensures that these will be met. Also ensuring that everyone has a clear idea of what the object makes communication between different teams that are working on different components cohesive.
+
+2. Which of the project planning and management mothods appealed to you the most and why?
+
+The waterfall made a lot of sense and is typically kind of the thing I follow when working on projects. I do see that in industry agile or other methods are significantly hindered by this kind of "put on your horse blinders and go" kind of method.
+
 3.  Between design ops, content ops, and research ops, which appeled to you most and why?
+
+- research ops appealed to me most because I like the idea of being able to find and reasearch or even developing new tools that help a project get done faster and more efficiently.
