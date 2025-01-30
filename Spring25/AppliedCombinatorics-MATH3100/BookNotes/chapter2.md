@@ -37,3 +37,39 @@ $$= 9 \times 10^3 \times 26^3$$
 $$= 158,184,000$$
 
 **Therefore there are 158,184,000 license plates strings poissible in the state of Georgia.**
+
+### Example 2.2
+
+> A machine instruction in a $$32$$-bit operating system is just a bit string of length $$32$$. Thus, there are $$2$$ options for each of $$32$$ positions to fill, making the number of such strings $$2^32$$ = $$4 294 967 269$$. In general. the number of bit strings of lenth $$n$$ is $$2^n$$.
+
+**Given:**
+
+- A machine instruction in an $$n$$-bit operating system is a bit string of length n.
+
+**Goal:**
+
+- Show that the number of bit strings of length $$n$$ is $$2^n$$
+
+**Base Case**
+
+When string is length $$1$$ we know that there are two different strings which account for the number of characters in our alphabet ($${0, 1}$$)
+Therefore 
+
+a bit string of length $$1$$ is $$2^1$$
+
+**Inductive Step**
+
+When a string is length 
+
+$$k+1$$
+
+Let's assume that our hypothesis is correct and that 
+
+$$s(n) = 2^n$$
+
+Plugging in we get
+
+$$s(k+1) = 2^(k+1)$$
+
+$$
+
