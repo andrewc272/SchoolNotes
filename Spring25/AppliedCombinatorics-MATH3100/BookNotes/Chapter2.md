@@ -50,12 +50,26 @@ $$= 158,184,000$$
 
 - Show that the number of bit strings of length $$n$$ is $$2^n$$
 
-**Lets use the multiplication rule for $$n$$ number of bits**
+**Base Case**
 
-$$s(n) = 2_1 * 2_2 * ... * 2_n$$
+When string is length $$1$$ we know that there are two different strings which account for the number of characters in our alphabet ($${0, 1}$$)
+Therefore 
 
-**Therefore in anycase where there is a string defined by $$n$$ bits there are $$2^n$$ different strings**
+a bit string of length $$1$$ is $$2^1$$
 
-$$s(n) = s^n$$
+**Inductive Step**
 
+When a string is length 
+
+$$k+1$$
+
+Let's assume that our hypothesis is correct and that 
+
+$$s(n) = 2^n$$
+
+Plugging in we get
+
+$$s(k+1) = 2^(k+1)$$
+
+$$
 
