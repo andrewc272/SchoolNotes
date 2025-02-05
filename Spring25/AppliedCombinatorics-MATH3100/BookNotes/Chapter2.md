@@ -84,4 +84,16 @@ $$s(n) = s^n$$
 
 |Characters|$$X_1$$|$$X_2$$|$$X_3$$|$$X_4$$|$$X_5$$|$$X_6$$|$$X_7$$|$$X_8$$|$$X_9$$|$$X_{10}$$|$$X_{11}$$|$$X_{12}$$|$$X_{13}$$|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||||
+|#|26|62|62|62|62|62|2|3|3|3|3|3|10|
+
+**Beacause our only constraint is the individual alphabets and the characters have no constraints that are dependent apon eachother we can simply multiply these numbers together to count the number of strings there will be. (Multiplication Rule)**
+
+$$Strings = 26 \times 62 \times 62 \times 62 \times 62 \times 62 \times 2 \times 3 \times 3 \times 3 \times 3 \times 3 \times 10$$
+
+$$= 26 \times 62^5 \times 2 \times 3^5 \times 10$$
+
+$$= 115,762,544,651,520$$
+
+**Therefore there are ~115 trillion different usernames the website can accept registrations from**
+
+
