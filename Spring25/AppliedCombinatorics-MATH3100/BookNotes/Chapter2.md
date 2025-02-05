@@ -66,7 +66,7 @@ $$s(n) = s^n$$
 
 - a string of length 13 where...
 
-*$$X_n$$ is the charicter $$X$$ at position $$n$$ in string s.*
+$$X_n$$ *is the charicter* $$X$$ *at position* $$n$$ *in string s.*
 
 |$$X_n$$|Rule|
 |---|---|
