@@ -66,8 +66,20 @@ $$s(n) = s^n$$
 
 - a string of length 13 where...
 
-|X_n|
+*$$X_n$$ is the charicter $$X$$ at position $$n$$ in string s.*
+
+|$$X_n$$|Rule|
+|---|---|
+|$$X_1$$|Upper Case Letter Only|
+|$$X_2, X_3, X_4, X_5, X_6$$|Digits(0-9), Upper or Lower Case Letter Only|
+|$$X_7$$|'@' or '.' Only|
+|$$X_8, X_9, X_10, X_11, X_12$$|'\*', '%', or '#' Only|
+|$$X_13$$|Digit(0-9)|
+
 
 **Goal:**
 
 - Find the number of unique usernames that there could be
+
+
+
