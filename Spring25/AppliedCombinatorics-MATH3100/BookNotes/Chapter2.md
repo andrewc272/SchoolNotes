@@ -48,28 +48,26 @@ $$= 158,184,000$$
 
 **Goal:**
 
-- Show that the number of bit strings of length $$n$$ is $$2^n$$
+- Show that the number of bit strings of length $$n$$ is $$2^n$$ ($$s(n) = s^n$$)
 
-**Base Case**
+**Lets use the multiplication rule for $$n$$ number of bits**
 
-When string is length $$1$$ we know that there are two different strings which account for the number of characters in our alphabet ($${0, 1}$$)
-Therefore 
+$$s(n) = 2_1 * 2_2 * ... * 2_n$$
 
-a bit string of length $$1$$ is $$2^1$$
+**Therefore in anycase where there is a string defined by $$n$$ bits there are $$2^n$$ different strings**
 
-**Inductive Step**
+$$s(n) = s^n$$
 
-When a string is length 
+### Example 2.3
 
-$$k+1$$
+> Suppose that a website allows its users to pick their own usernames for accounts, but imposes some restictions. The first character must be an upper-case letter in the English alphabet. The second through sixth characters can be letters (both upper-case and lower-case allowed) in the English alphabet or decimal digits (0-9). The seventh position must be "@' or '.' The eighth through twelfth positions allow lower0case English letters, '\*', '%', and '#'. The thirteenth posision must be a digit. How many users can the website accept registrations from?
 
-Let's assume that our hypothesis is correct and that 
+**Given:**
 
-$$s(n) = 2^n$$
+- a string of length 13 where...
 
-Plugging in we get
+|X_n|
 
-$$s(k+1) = 2^(k+1)$$
+**Goal:**
 
-$$
-
+- Find the number of unique usernames that there could be
