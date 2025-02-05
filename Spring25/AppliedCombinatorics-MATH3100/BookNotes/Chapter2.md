@@ -73,8 +73,8 @@ $$X_n$$ *is the charicter* $$X$$ *at position* $$n$$ *in string s.*
 |$$X_1$$|Upper Case Letter Only|
 |$$X_2, X_3, X_4, X_5, X_6$$|Digits(0-9), Upper or Lower Case Letter Only|
 |$$X_7$$|'@' or '.' Only|
-|$$X_8, X_9, X_10, X_11, X_12$$|'\*', '%', or '#' Only|
-|$$X_13$$|Digit(0-9)|
+|$$X_8, X_9, X_{10}, X_{11}, X_{12}$$|'\*', '%', or '#' Only|
+|$$X_{13}$$|Digit(0-9)|
 
 
 **Goal:**
