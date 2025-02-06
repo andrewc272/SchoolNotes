@@ -123,7 +123,7 @@ $$= 9,771,287,250,890,863,360$$
 
 |Characters|$X_1$|$X_2$|$X_3$|$X_4$|$X_5$|$X_6$|
 |---|---|---|---|---|---|---|
-|Count|$26 \minus 0$|$26 \minus 1$|$26 \minus 2$|$26 \minus 3$|$26 \minus 4$|$26 \minus 5$|
+|Count|$26 - 0$|$26 - 1$|$26 - 2$|$26 - 3$|$26 - 4$|$26 - 5$|
 |#|$26$|$25$|$24$|$23$|$22$|$21$|
 
 **Now each alphabet is defined so that it is independent of the last and the multiplication rule can be used.
