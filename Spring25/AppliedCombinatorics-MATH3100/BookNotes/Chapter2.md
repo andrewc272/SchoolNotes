@@ -38,6 +38,8 @@ $$= 158,184,000$$
 
 **Therefore there are 158,184,000 license plates strings poissible in the state of Georgia.**
 
+---
+
 ### Example 2.2
 
 > A machine instruction in a $$32$$-bit operating system is just a bit string of length $$32$$. Thus, there are $$2$$ options for each of $$32$$ positions to fill, making the number of such strings $$2^32$$ = $$4 294 967 269$$. In general. the number of bit strings of lenth $$n$$ is $$2^n$$.
@@ -57,6 +59,8 @@ $$s(n) = 2_1 * 2_2 * ... * 2_n$$
 **Therefore in anycase where there is a string defined by $$n$$ bits there are $$2^n$$ different strings**
 
 $$s(n) = s^n$$
+
+---
 
 ### Example 2.3
 
@@ -96,6 +100,8 @@ $$= 9,771,287,250,890,863,360$$
 
 **Therefore there are ~9 quintillion different usernames the website can accept registrations from**
 
+## 2.2 Permutations
+
 ### Example 2.5
 
 > Imagine placing the 26 letters of the English alphabet in a bag and drawing them out one at a time (without returning a letter once it's been drawn) to form a six-character string. We know there are $26^6$ strings of length six that can be formed from the English alphabet. However, if we restrict the manner of string formation, not all strings are possible. The string "yellow" has six characters, but it uses  the letter "l" twice and thus cannot be formed by drawing letters form a bag. However, "jacket" can be formed in theis manner. Starting from a full bag, we note there are 26 choices for the first letter. Once it has been removed, there are 26 choices for the first letter. Once it has been removed, there are 25 letters remaining in the bag. After drawing the secondletter, there are 24 letters remaining. Coninuing, we note that immediately before the sixth letter is drawn from the bag, there are 21 letters in the bag. Thus, we can form $26 \times 25 \times 24 \times 23 \times 22 \times 21$ six-character strings of Englixh letters by drawing letters from a bag, a little more than half the total number of six-character strings on this alphabet.
@@ -133,6 +139,8 @@ $$Strings = 26 \times 25 \times 24 \times 23 \times 22 \times 21$$
 $$= 165,765,600$$
 
 **Therefore, there are ~165 million ways to draw 6 letters out of a bag of letters.**
+
+---
 
 
 
