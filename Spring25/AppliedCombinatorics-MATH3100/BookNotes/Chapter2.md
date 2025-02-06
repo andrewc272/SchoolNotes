@@ -200,7 +200,7 @@ $$= 37,957,920$$
 
 **Let's use the Multiplication rule to solve the rest**
 
-$$Strings = 9 \times 10 \times 10 \times 10 \times 26 \tiems 25 \times 24$$
+$$Strings = 9 \times 10 \times 10 \times 10 \times 26 \times 25 \times 24$$
 
 $$= 9 \times 10^3 \times P(26, 3)
 
@@ -222,9 +222,9 @@ $$= 140,400,000$$
 
 **If the fist digit isn't included then we can take what we did in the first part of this example and use it again but for the digits**
 
-$$Strings = 9 \times 10 \times 9 \times 8 \times 26 \times 26 \26$$
+$$Strings = 9 \times 10 \times 9 \times 8 \times 26 \times 26 \times 26$$
 
-$$= 9 \times P(10,3) \times 26^3
+$$= 9 \times P(10,3) \times 26^3$$
 
 $$= 113,892,480$$
 
@@ -243,3 +243,70 @@ $$= 79,724,736$$
 $$C(n,k) = \frac{P(n,k)}{k!} = \frac{n!}{k!(n-k)!}$$
 
 $$C(n,k) = C(n,(n-k))$$
+
+### Example 2.11
+
+> A Southern restaurant lists 21 items in the "vegetable" category of its menu. (LIke any good Southern resaurant, macoroni and cheese is *one* of the vegetable options.) they sell a vegetable plate which gives the customer four different vegetables from the menu. Since there is no importance to the order the vegetables are placed on the plate, there are $C(21, 4) = 5985$ different ways for a customer ot ordera vegetable plate at the restaurant.
+
+**Given:**
+
+- A set of $21$ different vegetables
+
+**Goal:**
+
+- Find how many different $4$ vegetable selections can be put on a plate.
+
+**There is a set of size 21 and a plate is made of 4 and since the order doesn't matter C(n, k) can be used. Let's plug it in and see what we get!**
+
+$$C(21, 4) = \frac{P(21,4)}{4!}$$
+
+<br>
+
+$$P(21,4) = 21 \times 20 \times 19 \times 18$$
+
+$$= 143,640$$
+
+<br>
+
+$$4! = 4 \times 3 \times 2 \times 1$$
+
+$$= 24$$
+
+<br>
+
+$$C(21, 4) = \frac{143,640}{24}$$
+
+$$= 5985$$
+
+**Therefore there are a little less than 6 thousand different combinations of vegetable platers**
+
+---
+
+### Example 2.12
+
+> Let $n$ be a positive integer and let $X$ be an $n$-element set. Then there is a natural one-to-one correspondence between subsets of $X$ and bit string sof length $n$. Tp be precise, let $X = {x_1, x_2,...,x_n}$. Then a subset $A \subseteq X$ coreresponds to the string $s$ where $s(i) = 1$ if and only if $i \in A$. For example, if $X = {a,b,c,d,e,f,g,h}$, then the subset ${b,c,g} corresponds tot he bit string 01100010. There are $C(8,3) = 56$ bit strings of length eight with precisely three $1$'s. Thinking about this correspondence, what is the total number of subsets of an $n$-element set?
+
+**Given:**
+
+- set and a subset that produce a bit string that corresponds to the set both in length and in whether each character in a string is in the subset of that string
+
+**Goal:**
+
+- What is the number of subsets of an $n$-eement set?
+
+**Each element has 1 bit representation in the bit string. It can be there (1), or not there (0).**
+
+**Each unique subset results in a unique bit string pattern.**
+
+**As a result, this problem can be solved by simply figuring out how many bit strings can be made of length** $n$
+
+$$s(n) = 2^n$$
+
+**Therefore the number of subsets of an** $n$**-element set is** $2^n$.
+
+---
+
+## 2.4 Combinatorial Proofs
+
+
+
