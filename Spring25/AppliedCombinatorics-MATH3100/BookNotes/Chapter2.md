@@ -26,7 +26,7 @@
 
 |Characters|$$x_1$$|$$x_2$$|$$x_3$$|$$x_4$$|$$x_5$$|$$x_6$$|$$x_7$$|
 |---|---|---|---|---|---|---|---|
-|#|9|10|10|10|26|26|26|
+|#|$9$|$10$|$10$|$10$|$26$|$26$|$26$|
 
 **Beacause our only constraint is the individual alphabets and the characters have no constraints that are dependent apon eachother we can simply multiply these numbers together to count the number of strings there will be.**
 
@@ -71,7 +71,7 @@ $$s(n) = s^n$$
 |$$X_1$$|Upper Case Letter Only|
 |$$X_2, X_3, X_4, X_5, X_6$$|Digits(0-9), Upper, or Lower Case Letter Only|
 |$$X_7$$|'@' or '.' Only|
-|$$X_8, X_9, X_{10}, X_{11}, X_{12}$$|'\*', '%', or '#' Only|
+|$$X_8, X_9, X_{10}, X_{11}, X_{12}$$|Lower Case Letter, '\*', '%', or '#' Only|
 |$$X_{13}$$|Digit(0-9)|
 
 \*$$X_n$$ *is the charicter* $$X$$ *at position* $$n$$ *in string* $$s$$
@@ -84,16 +84,55 @@ $$s(n) = s^n$$
 
 |Characters|$$X_1$$|$$X_2$$|$$X_3$$|$$X_4$$|$$X_5$$|$$X_6$$|$$X_7$$|$$X_8$$|$$X_9$$|$$X_{10}$$|$$X_{11}$$|$$X_{12}$$|$$X_{13}$$|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|#|26|62|62|62|62|62|2|3|3|3|3|3|10|
+|#|$26$|$62$|$62$|$62$|$62$|$62$|$2$|$29$|$29$|$29$|$29$|$29$|$10$|
 
 **Beacause our only constraint is the individual alphabets and the characters have no constraints that are dependent apon eachother we can simply multiply these numbers together to count the number of strings there will be. (Multiplication Rule)**
 
-$$Strings = 26 \times 62 \times 62 \times 62 \times 62 \times 62 \times 2 \times 3 \times 3 \times 3 \times 3 \times 3 \times 10$$
+$$Strings = 26 \times 62 \times 62 \times 62 \times 62 \times 62 \times 2 \times 29 \times 29 \times 29 \times 29 \times 29 \times 10$$
 
-$$= 26 \times 62^5 \times 2 \times 3^5 \times 10$$
+$$= 26 \times 62^5 \times 2 \times 29^5 \times 10$$
 
-$$= 115,762,544,651,520$$
+$$= 9,771,287,250,890,863,360$$
 
-**Therefore there are ~115 trillion different usernames the website can accept registrations from**
+**Therefore there are ~9 quintillion different usernames the website can accept registrations from**
+
+### Example 2.5
+
+> Imagine placing the 26 letters of the English alphabet in a bag and drawing them out one at a time (without returning a letter once it's been drawn) to form a six-character string. We know there are $26^6$ strings of length six that can be formed from the English alphabet. However, if we restrict the manner of string formation, not all strings are possible. The string "yellow" has six characters, but it uses  the letter "l" twice and thus cannot be formed by drawing letters form a bag. However, "jacket" can be formed in theis manner. Starting from a full bag, we note there are 26 choices for the first letter. Once it has been removed, there are 26 choices for the first letter. Once it has been removed, there are 25 letters remaining in the bag. After drawing the secondletter, there are 24 letters remaining. Coninuing, we note that immediately before the sixth letter is drawn from the bag, there are 21 letters in the bag. Thus, we can form $26 \times 25 \times 24 \times 23 \times 22 \times 21$ six-character strings of Englixh letters by drawing letters from a bag, a little more than half the total number of six-character strings on this alphabet.
+
+**Given:**
+
+- A bag containing all 26 letters of the alphabet
+
+**Goal:**
+
+- How many different ways can you draw out 6 different letters?
+
+**Lets solve this like the last few problems using the multiplication rule. Lets assume "s" is a string with six charicters following the following rules.**
+
+|$X_n$|Rules|
+|---|---|
+|$X_1$|English Letter Only|
+|$X_2$|English Letter Excluding $X_1$|
+|$X_3$|English Letter Excluding $X_1, X_2$|
+|$X_4$|English Letter Excluding $X_1, X_2, X_3$|
+|$X_5$|English Letter Excluding $X_1, X_2, X_3, X_4$|
+|$X_6$|English Letter Excluding $X_1, X_2, X_3, X_4, X_5$|
+
+**Lets use a table to count the length of the alphabet of each character in the string "s"**
+
+|Characters|$X_1$|$X_2$|$X_3$|$X_4$|$X_5$|$X_6$|
+|---|---|---|---|---|---|---|
+|Count|$26 \minus 0$|$26 \minus 1$|$26 \minus 2$|$26 \minus 3$|$26 \minus 4$|$26 \minus 5$|
+|#|$26$|$25$|$24$|$23$|$22$|$21$|
+
+**Now each alphabet is defined so that it is independent of the last and the multiplication rule can be used.
+
+$$Strings = 26 \times 25 \times 24 \times 23 \times 22 \times 21$$
+
+$$= 165,765,600$$
+
+**Therefore, there are ~165 million ways to draw 6 letters out of a bag of letters.**
+
 
 
