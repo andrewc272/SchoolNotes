@@ -126,7 +126,7 @@ $$= 9,771,287,250,890,863,360$$
 |Count|$26 - 0$|$26 - 1$|$26 - 2$|$26 - 3$|$26 - 4$|$26 - 5$|
 |#|$26$|$25$|$24$|$23$|$22$|$21$|
 
-**Now each alphabet is defined so that it is independent of the last and the multiplication rule can be used.
+**Now each alphabet is defined so that it is independent of the last and the multiplication rule can be used.**
 
 $$Strings = 26 \times 25 \times 24 \times 23 \times 22 \times 21$$
 
