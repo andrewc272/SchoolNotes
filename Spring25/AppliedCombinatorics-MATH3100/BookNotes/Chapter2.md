@@ -308,5 +308,127 @@ $$s(n) = 2^n$$
 
 ## 2.4 Combinatorial Proofs
 
+### Example 2.13
+
+**Given:**
+
+- $n$ is a positive ineger
+
+**Goal:**
+
+- Explain why...
+
+$$1 + 2 + 3 + ... + n = \frac{n(n + 1)}{2}
+
+**Considering a box of dots that has the following dimensions**
+
+$$(n + 1) \times (n + 1)$$
+
+**There are this many dots all together**
+
+$$(n + 1)^2$$
+
+**To find what** $n$ **is we must first take out** $n+1$ **dots across the diaganol of the box**
+
+$$(n + 1)^2 - (n + 1)$$
+
+**This leaves us with a top half and a bottom half of the dot box**
+
+**The dots on one side are n**
+
+**But also the dots that are in one of these triangles are**
+
+$$1 + 2 + 3 + ... + n$$
+
+**Therefore**
+
+$$1 + 2 + 3 + ... + n = \frac{n(n + 1)}{2}
+
+---
+
+### Example 2.15
+
+**Given:**
+
+- $n$ is a positive integer
+
+**Goal:**
+
+- Explain why...
+
+$$1 + 3 + 5 + ... + 2n - 1 = n^2$$
+
+**Thinking of a square of dots with a side of length** $n$
+
+**If we rope off dots starting in the top left corner we get**
+
+$$1 + 3 + 5 + ... + 2n - 1$$
+
+**dots. This is equal to the number of dots in our square that can be defined as**
+
+$$n^2$$
+
+**Therefore**
+
+$$1 + 3 + 5 + ... + 2n - 1 = n^2$$
+
+---
+
+### Example 2.17
+
+**Given:**
+
+- $n$ is a positive integer
+
+**Goal:**
+
+- Explain why
+
+$$C(n,0) + C(n,1) + C(n,2) + ... + C(n,n)$$
+
+**Thinking back to the senerio in example 2.12**
+
+**We know that each subset given a set can produce a bit string of the same length as the set**
+
+**Each bit string is equivalent to a unique combination of the set and each unique combination produces a unique bit string**
+
+**Therefore the number of combinations in a set of length n is equivelent to**
+
+$$2^n$$
+
+---
+
+### Example 2.18
+
+**Given:**
+
+- n and k are positive integers where 0 <= k <= n
+
+**Goal:**
+
+- Explain why
+
+$$C(n,k+1) = C(k,k) + C(k+1,k) + ... + C(n-1,k)$$
+
+**Thinking about the bit strings produced both sides create bit strings of length n that contain k+1 1's therefore both sides of this formula are equivelent**
+
+--- 
+### Example 2.19
+
+**Goal:**
+
+- Explain the Identity
+
+**Both sides count strings of length n but one does it looking at positions of each element and the other looks at positions where they aren't 2**
+
+---
+
+### Example 2.20
+
+**Goal:**
+
+- Explain why for each non-negative integer n
+
+**Both sides count the number of bit strings of double the length where half of the bits are 0, the right side partitions them according to the number of one's in the bit string**
 
 
