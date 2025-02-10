@@ -22,7 +22,7 @@
 
 ## Applied Combinatorics
 
-- [ ] Read all of chapter 2 and 7
+- [x] Read all of chapter 2 and 7
 - [ ] do the rest of the examples for chapter 2
 - [ ] Chapter 2 excersizes
 
