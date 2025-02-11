@@ -258,48 +258,145 @@ Ask questions like
 
 #### What Are Personas?
 
+artifacts that describe specific user types for a product, application or service.
 
+- *marketing-targeted* personas that model purchase motivations
+- *interactive personas* that are modeled toward usage behaviors
 
 #### Why Create Personas?
 
+Personas can offer a lens into a user's perspective and can help justify why you make your product one way or another.
+
 #### Finding Information for Personas
+
+- first you have to research them and then create the persona
 
 #### Creating Personas
 
+- a persona is a singular person charicteristic of the people that would use or are targeted at using the product.
+- create a persona that is relevent to the pllications product or service and that is believable
+
 ##### (Fairly) Standard Content Considerations
+
+- Name and image
+- Job/role
+- Goals
+- Pain points
+- Scenarios or use cases
+- Channels/mediums
+- Interaction style
+- Quotes or testimonials
+- Priority level
 
 #### Additional (Optional) Content
 
+- Demographics 
+    - Age
+    - Location
+- Biography
+    - Education level
+    - Salary range/annual income
+    - Online activities
+    - Offline activities
+    - Key entry or trigger points
+- Psychographics
+- technology comfort level
+- Social comfort level
+
 #### Ad Hoc Personas: The Empathy Map
 
+This is where we groupings based on actions they take we categorize all of them into 7 different categories about one person
+
 #### Final Thoughts on Personas
+
+Personas are just to help you understand the user better!!
 
 ## Essential Quesitons
 
 - What are the six basic steps of user research?
+
+1. Define your primary usergroups
+1. Plan your research
+1. conduct the research
+1. Form and share you rdinfings
+1. Validate your user group definitions
+1. Generate user-focused prodcut ideas
+
 - What are the steps of defining user groups?
+
+1. Create a list of attributes that will help you define the different users of your site
+1. Discuss and expand on those attributes with people at your company who have contact with relevant types of users
+1. Prioritize the attributes that seem to have the largest impact on why and how a potential user would use your product.
+1. Segment the user groups that you will focus on in research and design.
+
 - What do these terms mean in th econtext of user research?
     - Promary user goals
+Why are users coming to it and what are they trying to accomplish?
     - roles
+What is the user's primary goal?
     - demographics
+Age, family, income and sometimes location
     - experience
+level of education, level of familiarity with the subject matter, and experience with relevant technologies,
     - work atributes
+size of the company users work for, department , type of jop, and tenure.
+
 - What are a goal, an objective, and a hypothesis in the context of user research?
+
+A goal is the purpose for the research
+A objecti ve is something specific, distinct and measurable that you want to accomplish
+A Hypotheses is an idea you want to validate or invalidate.
+
 - What is the difference between qualitative nd quantitative research?
+
+qualitative has to do with non-numerical observations and measurements
+quantitative has to do with numbers and exact measurements.
+There tends to be higher confidence and repeatable results from qantitative research lending it to be a more reliable option.
+
 - Describe three user-research methods
+
+User interviews
+: One-on-oen conversations with participants who belong to one of the site's primary user groups
+Field Studies
+: On-site visits to places with potential users to observe and learn about how they behave in their normal, everyday environment contextul inquiry is a common method that blends interviews and field work.
+Focus Groups
+: A group discussion where a moderator leads participants through questions meant to uncover their feelings, attitudes, and ideas about a specific topic
+
 - What is a persona in the cntext of design?
+
+It is artifacts that describe specific user types for a product, application or service. It is a simplified symbol of a product, application or service's user base.
+
 - Why are personas useful?
+
+They help us understand the users of our product so that we can better design whatever it is.
+
 - How do you create a persona?
+
+you have to gather research about the people your product helps, then you have to bring together common attributes and compile them until they can be simplified to be just one person. Then you can paint a picture on who that person is and what their life looks like.
+
 - pLEASE GOOGLE: What is an IRB and how does that relate to human research in the context of a university?
+
+An IRB is an Institutional Review Board its purpose is to, review reseach proposals, ensuring informed consent, protecting participant's privacy and confidentiality, ongoing monitoring and ensuring risk minimization. it is important to have since there are so much research is going on and it is good to have everything fact checked and quality checked so the reputaiton of the institution is not infringed apon.
 
 ## Reflection Questions
 
 - Does yser research as described in chapter 7 line up with how you have seen research/science done in the past? Why or why not?
+
+A little but I think it has goals and objectives where as I feel as though most science is very much hypothesis hypothesis hypothesis. The goal is to demonstrate or invalidate the hypothesis. The objective coincides.
+
+
 - What od you think is one potential pitfall when defining user groups and how could you avoid it?
+
+Getting too concerned about race and other non-impactful groupings of people. Income and things like education level are much better and gives a better picture in to the lives of your users. This can avoid racist or otherwise unuseful user groups.
+
 - What is a qualitative question you coyld ask about someone's user experience with this book?
+
+Do you think the color scheme makes sense for this book, why or why not?
+
 - What is a quantitative question you could ask about someone's user experience with this book?
+
+How long did it take you to read chapter 7?
+
 - How can you personally practice building empathy as a design skill?
 
-
-
-
+Creating personas and putting yourself in to other people's shoes will help you understand other people and see what they are going through in life.
