@@ -51,14 +51,14 @@ $$\binom{100}{k_1,k_2,k_3} 2^{k_1} x^{k_1} 3^{k_2} y^{2(k_2)} z^{k_3}$$
 
 $x^{15} y^{120} z^{25}$ arises when $k_1=15,k_2=60,k_3=25$ so the coefficient is...
 
-$$\binom{100}{15,60,25} 2^15 3^60$$
+$$\binom{100}{15,60,25} 2^{15} 3^{60}$$
 
 
 ## Question 31
 
 > For each word below, determine the number of rearrangements of the word in which all letters must be used.
 
-$$\frac{# of letters!}{letter#!letter#!...}$$
+$$\frac{num of letters!}{letter1!letter2!...}$$
 
 a. OVERNUMEROUSNESSES
 
