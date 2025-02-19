@@ -7,7 +7,7 @@
 
 #### Exercise #2
 
-> There are $1189$ students majoring in computer science at a particular university. They are surveyed about their knowledge of three programming languages: C++, Java, and Python. The survey results reflect that $856$ students know C++, $792$ know Java, and $692$ know Python. Additionally, $659 students know both C++ and Java, 519 know both C++ and Python, and $632$ know both Java and Python. THere are $488$ students who report knowing all three languages. How many students reported that they did not know any of the three programming languages?
+> There are $1189$ students majoring in computer science at a particular university. They are surveyed about their knowledge of three programming languages: C++, Java, and Python. The survey results reflect that $856$ students know C++, $792$ know Java, and $692$ know Python. Additionally, $659$ students know both C++ and Java, $519$ know both C++ and Python, and $632$ know both Java and Python. THere are $488$ students who report knowing all three languages. How many students reported that they did not know any of the three programming languages?
 
 **Given:**
 
