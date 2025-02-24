@@ -12,12 +12,8 @@ $$\binom{100}{60} d_60 = 4207887349222817212832746283339134521076785250023206804
 
 such ways to return the hats.
 
-## Section 7.4
+*To solve this problem we have to think about how there will be 2 different groups of people in this senerio. People who will leave with thier own hats and the people who will leave without their hat. There is only one way that the 40 people who go home with the same hat can arrange their hats. For the other 60 people there is $\binom{100}{60}$ ways to choose the $60$ men out of the $100$. Also there are $d_60$ ways to distribute the hats to ensure that these men don't leave with thier own hat. This leaves us with the following number of ways we could return the hats.*
 
-### Example 7.16
+$$\binom{100}{60} d_{60} = 420788734922281721283274628333913452107738151595140722182899444$$
 
-> SageMath reports that
 
-$$1369122257328767073 = 3^3 11 19^4 31^2 6067^2$$
-
-/ is the factoization of $1369122257328767073$ into primes. It follows that
