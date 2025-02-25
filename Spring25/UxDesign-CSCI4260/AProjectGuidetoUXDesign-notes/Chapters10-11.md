@@ -352,13 +352,22 @@ social proof is just acceptance by other people like in comments or likes
 
 You can design your product with the needs of specific people in mind that way they aren't left out.
 
-*to be continued check github*
 
 ## Reflection Questions:
 
 - Explain how the product definition stage is a form of design convergence?
+
+this is bringing a lot of different content and ideas and bringing them together as one.
+
 - Create a doodle explaining the relationship between a user storu, feature, and epic
+
+epic --> fearure --> user story
+
 - Look at the app icons on your phone. Desccribe three of them in terms of unity and variety compared to the phon'es overall design
+
+Phone app and the face time app and messages apps are green with a symbol in the middle a phone camera and text box respectivly. these are very symbol which helps us group them together as social or communication apps. but they are distinguished by their symbols.
+
 - How can you improve your understanding of what's going on in other people's heads as a designer?
 
+You can ask people, create personas, and brainstorm with others.
 
