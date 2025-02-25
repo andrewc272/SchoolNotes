@@ -1,3 +1,6 @@
 [submodule "Spring25/PrinciplesOfProgrammingLanguages-CSCI4220/Spring25/principlesOfProgrammingLanguages-CSCI4220/PL-CSCI4220-Group7"]
 	path = Spring25/PrinciplesOfProgrammingLanguages-CSCI4220/Spring25/principlesOfProgrammingLanguages-CSCI4220/PL-CSCI4220-Group7
 	url = git@github.com:andrewc272/PL-CSCI4220-Group7.git
+[submodule "Spring25/PrinciplesOfProgrammingLanguages-CSCI4220/Spring25/Group7-Project"]
+	path = Spring25/PrinciplesOfProgrammingLanguages-CSCI4220/Spring25/Group7-Project
+	url = git@github.com:andrewc272/PL-CSCI4220-Group7.git
