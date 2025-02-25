@@ -284,19 +284,75 @@ you should design your application with certain people in mind who may not beabl
 ## Essential Questions:
 
 - Why is product definition important?
+
+It can help to give structure to what we have leared so far
+
 - What does Carolyn Chandler mean by defining ideas at "different levels"?
+
+you can see the different levels of ideas from the big picture to the small and well defined
+
 - What is the format of a user story?
+
+As a **[user role]**
+I want to **[action]**
+so I can **[goal]**
+
 - How are features and epics related to user stories?
+
+the epic and the feaure help to give reason for the user story, user story would be considered lower level
+
 - What does JTBD mean and why is it a useful frame?
+
+Jobs to be done help to form a customer-centric frame work that focuses on the jobs that people need done rather than just products and their features.
+
 - Describe two prioritization techniques
+
+Kano Model plots on a graph with satisfaction and functionality
+Opportuntiy scoring Importance + max(Importance - Satisfaction, 0) = Opportunity
+
 - What are the questions you should ask during feature definition?
+
+    - What is the product vision?
+    - What probleme are we solving and why?
+    - What technology considerations should we keep in mind?
+    - What user insights should we keep in mind?
+    - Whatproject considerations should we keep in mind
+    - Are there any design or guiding principles for this effort?
+    - What job stories should we include?
+    - How are we going to measure success?
+    - How we will determine whether the problem has been solved? What is our desired outcome?
+    - What do we consider in scope of out of scope for this feature?
+    - Are there any though starthers the team would like to share?
+
 - What are the trade-offs between unity and variety?
+
+if things are the same we are more able to place them together and if they are unique we can better distinguish them although if you are not able to either distinguish or tell that different symbols are together there is no good way of knowing what the symbols are for and what the associated symbols are.
+
 - What is an association?
+
+an association is the way that you connect different distinct ideas.
+
 - What is an affordance?
+
+the degree to wich the properties of the object make it clear how it can be used.
+
 - what does skeuomorphism mean?
+
+a design approach athat mimics the visual design of a three-dimensional physical object or space
+
 - How is design related to psychology?
+
+You have to understand how people think in order to make a design that makes sense to them.
+
 - What is social proof and whydoes it matter?
+
+social proof is just acceptance by other people like in comments or likes
+
 - How does accessibility influence design?
+
+You can design your product with the needs of specific people in mind that way they aren't left out.
+
+*to be continued check github*
 
 ## Reflection Questions:
 
