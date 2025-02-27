@@ -1,3 +1,7 @@
+// Andrew Carlson (@andrewc272)
+// Contact: andrewcarlson272@gmail.com
+// Date created: 2/26/25
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
