@@ -4,7 +4,7 @@
 
 - Syllabus and Course Policies Quiz
 - Presentation Assignment Details Quiz
-- Watch LLMs and their uses in a Nutshell
+- Watch [LLMs and their uses in a Nutshell](file://~/Video/)
 - Watch Ted Talk on ChatGPT
 - review notes
 
@@ -30,7 +30,6 @@
     - used crowdsourcing
 
 ### Major Topics
-
 1. Words
 1. Syntax
 1. Meaning
@@ -54,4 +53,39 @@
 - We'll be intermingling discussions of 
     - Linguistic topics
     - Applications
+- Computational inguists are obsessed with ambiguity
+- we have to resolve ambiguity
+- I made her duck
+    - She crouched down because of my action
+    - She was turned into a duck because of an aciton I preformed
+    - I cooked duck for her
+    - Her duck was made by me
+    - This sentence is very ambiguous
+    - there can be meanings from previous states of language and new meanings from the future of language.
+- priavacy alternatives to ChatGPT
+- Lexical category duck can be a noun or a verb
+- her can be possessive  of her or dative for her
+- made transitive, ditransitive, Action-transitive
+- Phonetics!
+    - I mate or duck
+    - I'm eight or duck
+    - Eye maid; her duck
+    - Aye mate, her duck
+    - I maid her duck
+### Four possible approaches
+
+- Tightly couple interaciton among processing levels; knowledge from other levels can help decide among chices at ambiguous levels.
+- Pipeline processing that ignores ambiguity as it occurs and hopes that other levels can eliminate incorrect structures.
+- Porbabilistic approaches based on making the most likely choices
+- Don't do anything, maybe it won't matter
+- We will get a taste of ambiguity and complexities that it brings to the table of NLP
+- We will study computational approaches to a variety of small and medium tasks in NLP by means of [NLTK](http://www.nltk.org/index.html)
+
+### Chapter 1
+
+- What can we acheive by combining simple programming techniques with large quantities of text?
+- How can we automatcially extract key words and phrases that sum up the style and context of a text?
+- What tools and techiniques does they python programming language provide for such work?
+
+
 
