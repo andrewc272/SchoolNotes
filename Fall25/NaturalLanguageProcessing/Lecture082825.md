@@ -2,7 +2,8 @@
 
 ## What to do before next class
 
-- Syllabus and Course Policies Quiz
+- ~~Syllabus and Course Policies Quiz~~
+- Read Chapter 1
 - Presentation Assignment Details Quiz
 - Watch [LLMs and their uses in a Nutshell](file://~/Video/)
 - Watch Ted Talk on ChatGPT
