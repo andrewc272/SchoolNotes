@@ -2,17 +2,22 @@
 
 ## What to do before next class?
 
-- Answer questions
-- Read Potasso Documentation
+- ~~Answer questions~~
+- ~~Read Potasso Documentation~~
 - Quiz introduction
 - Quiz ASP
-- Get and overview of the books
+- ~~Get and overview of the books~~
 
 ## QA
 
 - What is Answer Set programming?
+Answer Set programming is a logic programming style where the developer builds a model and the computer draws truths out of the model making more difficult combinatorical problems easier and faster to solve than imparative programming.
+
 - How can Answer Set Programming benefit me as a software developer?
+You can use it to solve combinatorical problems faster than developing a whole script in other languages or doing it by hand.
+
 - How is does it compare to other kinds of programming?
+It is used in SQL and Haskel and is higher level then python because the computer does a lot of the interperating for you it can be really powerful for complex problems where coding it out or solving it by hand would be more tedious.
 
 ## Answer Set programming
 
