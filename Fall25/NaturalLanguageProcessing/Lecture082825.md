@@ -3,18 +3,21 @@
 ## What to do before next class
 
 - ~~Syllabus and Course Policies Quiz~~
-- Read Chapter 1
-- Presentation Assignment Details Quiz
-- Watch [LLMs and their uses in a Nutshell](file://~/Video/)
-- Watch Ted Talk on ChatGPT
-- review notes
+- ~~Read Chapter 1~~
+- ~~Presentation Assignment Details Quiz~~
+- ~~Watch [LLMs and their uses in a Nutshell](file:///home/andrew/Videos/[1hr%20Talk]%20Intro%20to%20Large%20Language%20Models%20[zjkBMFhNj_g].webm)~~
+- ~~Watch [Ted Talk on ChatGPT](file:///home/andrew/Videos/The%20Inside%20Story%20of%20ChatGPT%E2%80%99s%20Astonishing%20Potential%20%EF%BD%9C%20Greg%20Brockman%20%EF%BD%9C%20TED%20[C_78DM8fG6E].webm)~~
+- ~~review notes~~
 
 
 ## Questions
 
 - What are some uses for NLP?
+Chat bots, translating languages to others, and voice assistants.
 - What are some projects that would be interesting to explore this topic?
+With the Capstone project and the HCI class i think it would be interesting to explore NLP inside of these classes.
 - What will we learn about NLP during this course?
+We will learn about various levels of NLP from word level to syntax level to meaning level to discourse level and then use applicaitons that exploit each of these factors.
 
 ## Lecture Notes
 
