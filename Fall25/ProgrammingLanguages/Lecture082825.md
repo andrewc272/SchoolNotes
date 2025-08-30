@@ -4,7 +4,7 @@
 
 - ~~Answer questions~~
 - ~~Read Potasso Documentation~~
-- Quiz introduction
+- ~~Quiz introduction~~
 - Quiz ASP
 - ~~Get and overview of the books~~
 
