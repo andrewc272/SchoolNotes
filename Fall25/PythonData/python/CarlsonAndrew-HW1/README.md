@@ -9,6 +9,8 @@
 
 ### Versions
 
+*Used '../testVersions.py' to find versions*
+
 |Package|Version Number|
 |---|---|
 |Python|3.13.7|
@@ -19,3 +21,5 @@
 |scikit-learn|1.1.1|
 |xlrd|2.0.2|
 |mlxtend|0.23.4|
+
+
